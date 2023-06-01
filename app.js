@@ -17,6 +17,10 @@ dotenv.config()
 // port
 const PORT = process.env.PORT || 5000
 
+app.get('/', () => {
+    res.send("Rest API is live")
+})
+
 // middleware
 app.use("/api/products", productsRoute)
 
