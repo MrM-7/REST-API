@@ -17,7 +17,7 @@ dotenv.config()
 // port
 const PORT = process.env.PORT || 5000
 
-app.get('/', () => {
+app.get('/', (req, res) => {
     res.send("Rest API is live")
 })
 
