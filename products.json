@@ -1,0 +1,316 @@
+[
+    {
+        "name": "iphone",
+        "price": 154,
+        "company": "apple"
+    },
+    {
+        "name": "iphone12",
+        "price": 1540,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone10",
+        "price": 1540,
+        "company": "apple"
+    },
+    {
+        "name": "samsung galaxy",
+        "price": 199,
+        "company": "samsung"
+    },
+    {
+        "name": "dell xps",
+        "price": 999,
+        "company": "dell"
+    },
+    {
+        "name": "mi note",
+        "price": 299,
+        "company": "mi"
+    },
+    {
+        "name": "macbook pro",
+        "price": 1499,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "samsung qled",
+        "price": 1299,
+        "company": "samsung"
+    },
+    {
+        "name": "dell inspiron",
+        "price": 699,
+        "company": "dell"
+    },
+    {
+        "name": "mi tv",
+        "price": 499,
+        "company": "mi"
+    },
+    {
+        "name": "ipad",
+        "price": 399,
+        "company": "apple"
+    },
+    {
+        "name": "samsung monitor",
+        "price": 299,
+        "company": "samsung"
+    },
+    {
+        "name": "dell ultrabook",
+        "price": 899,
+        "featured": true,
+        "company": "dell"
+    },
+    {
+        "name": "mi watch",
+        "price": 199,
+        "company": "mi"
+    },
+    {
+        "name": "iphone11",
+        "price": 1199,
+        "company": "apple"
+    },
+    {
+        "name": "samsung galaxy note",
+        "price": 899,
+        "company": "samsung"
+    },
+    {
+        "name": "dell latitude",
+        "price": 799,
+        "company": "dell"
+    },
+    {
+        "name": "mi power bank",
+        "price": 49,
+        "company": "mi"
+    },
+    {
+        "name": "ipod touch",
+        "price": 199,
+        "company": "apple"
+    },
+    {
+        "name": "samsung soundbar",
+        "price": 299,
+        "company": "samsung"
+    },
+    {
+        "name": "dell gaming laptop",
+        "price": 1299,
+        "featured": true,
+        "company": "dell"
+    },
+    {
+        "name": "mi earphones",
+        "price": 29,
+        "company": "mi"
+    },
+    {
+        "name": "macbook air",
+        "price": 999,
+        "company": "apple"
+    },
+    {
+        "name": "samsung smartwatch",
+        "price": 349,
+        "company": "samsung"
+    },
+    {
+        "name": "dell desktop",
+        "price": 599,
+        "company": "dell"
+    },
+    {
+        "name": "mi bluetooth speaker",
+        "price": 69,
+        "company": "mi"
+    },
+    {
+        "name": "ipad pro",
+        "price": 799,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "samsung SSD",
+        "price": 199,
+        "company": "samsung"
+    },
+    {
+        "name": "dell monitor",
+        "price": 249,
+        "company": "dell"
+    },
+    {
+        "name": "mi robot vacuum",
+        "price": 399,
+        "company": "mi"
+    },
+    {
+        "name": "iphone13",
+        "price": 1699,
+        "company": "apple"
+    },
+    {
+        "name": "iphone SE",
+        "price": 399,
+        "company": "apple"
+    },
+    {
+        "name": "iphone XR",
+        "price": 599,
+        "company": "apple"
+    },
+    {
+        "name": "samsung galaxy S21",
+        "price": 1099,
+        "company": "samsung"
+    },
+    {
+        "name": "samsung galaxy A52",
+        "price": 499,
+        "company": "samsung"
+    },
+    {
+        "name": "samsung galaxy Tab S7",
+        "price": 799,
+        "company": "samsung"
+    },
+    {
+        "name": "dell precision",
+        "price": 1599,
+        "company": "dell"
+    },
+    {
+        "name": "dell XPS 13",
+        "price": 1399,
+        "featured": true,
+        "company": "dell"
+    },
+    {
+        "name": "dell Alienware",
+        "price": 2999,
+        "company": "dell"
+    },
+    {
+        "name": "mi 11",
+        "price": 899,
+        "company": "mi"
+    },
+    {
+        "name": "mi 10T",
+        "price": 699,
+        "company": "mi"
+    },
+    {
+        "name": "mi 11 Lite",
+        "price": 399,
+        "company": "mi"
+    },
+    {
+        "name": "macbook mini",
+        "price": 1199,
+        "company": "apple"
+    },
+    {
+        "name": "macbook pro 16",
+        "price": 2499,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "macbook air M1",
+        "price": 999,
+        "company": "apple"
+    },
+    {
+        "name": "samsung galaxy Watch 4",
+        "price": 349,
+        "company": "samsung"
+    },
+    {
+        "name": "samsung galaxy Buds Pro",
+        "price": 199,
+        "company": "samsung"
+    },
+    {
+        "name": "samsung galaxy Book Pro",
+        "price": 1299,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "dell Inspiron 15",
+        "price": 799,
+        "company": "dell"
+    },
+    {
+        "name": "dell Vostro",
+        "price": 499,
+        "company": "dell"
+    },
+    {
+        "name": "dell Precision 5550",
+        "price": 1999,
+        "company": "dell"
+    },
+    {
+        "name": "mi 11T Pro",
+        "price": 799,
+        "company": "mi"
+    },
+    {
+        "name": "mi 9T",
+        "price": 349,
+        "company": "mi"
+    },
+    {
+        "name": "mi Notebook Pro",
+        "price": 999,
+        "company": "mi"
+    },
+    {
+        "name": "apple pencil",
+        "price": 129,
+        "company": "apple"
+    },
+    {
+        "name": "samsung galaxy Tab A7",
+        "price": 249,
+        "company": "samsung"
+    },
+    {
+        "name": "dell UltraSharp",
+        "price": 299,
+        "company": "dell"
+    },
+    {
+        "name": "mi true wireless earbuds",
+        "price": 79,
+        "company": "mi"
+    },
+    {
+        "name": "iphone12 mini",
+        "price": 1099,
+        "company": "apple"
+    },
+    {
+        "name": "samsung galaxy S20 FE",
+        "price": 799,
+        "company": "samsung"
+    },
+    {
+        "name": "dell G5 gaming laptop",
+        "price": 1799,
+        "featured": true,
+        "company": "dell"
+    }
+]
