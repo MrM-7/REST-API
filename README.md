@@ -11,7 +11,7 @@ The base URL for all API endpoints is:
 
 ## Authentication
 
-The Product Catalog API does not require authentication to access public data.  
+The Product Catalog API does not require authentication to access data.  
 
 ## Endpoints
 
@@ -55,7 +55,7 @@ GET ```/api/products/```
   }
 ```
 
-Search Products  
+### Search Products  
 Search for products based on specific criteria, such as name, price range, or company.
 
 Endpoint:  
@@ -65,7 +65,7 @@ Response:
 ```json
 {
     "Products": [
-            {
+         {
             "_id": "6478e7489e2b2d348b22f977",
             "name": "dell xps",
             "price": 999,
@@ -100,7 +100,7 @@ Response:
   }
 ```
 
-Sort Products    
+### Sort Products    
 Sort products based on price , name, company name etc in both ascending and descending order 
 
 Endpoint:  
@@ -110,7 +110,7 @@ Response:
 ```json
 {
     "Products": [
-            {
+         {
             "_id": "6478e7489e2b2d348b22f988",
             "name": "mi earphones",
             "price": 29,
@@ -145,7 +145,7 @@ Response:
   }
 ```
 
-Select Specific properties of Products      
+### Select Specific properties of Products      
 Select specific propeties like name, company name, price etc 
 
 Endpoint:  
@@ -155,7 +155,7 @@ Response:
 ```json
 {
     "Products": [
-            {
+         {
             "_id": "6478e7489e2b2d348b22f974",
             "name": "iphone12",
             "company": "apple"
@@ -175,3 +175,40 @@ Response:
   }
 ```
 
+### Pagination        
+By default each page has a limit of 10 entries 
+
+Endpoint:  
+GET ```/api/products/?page=1&limit=10```
+
+Response:  
+```json
+{
+    "Products": [
+        {
+            "_id": "6478e7489e2b2d348b22f974",
+            "name": "iphone12",
+            "price": 1540,
+            "featured": true,
+            "rating": 4.9,
+            "createdAt": "2023-06-01T18:45:23.193Z",
+            "company": "apple",
+            "__v": 0
+        },
+        {
+            "_id": "6478e7489e2b2d348b22f973",
+            "name": "iphone",
+            "price": 154,
+            "featured": false,
+            "rating": 4.9,
+            "createdAt": "2023-06-01T18:45:23.193Z",
+            "company": "apple",
+            "__v": 0
+        }, 
+        ...
+        Total 10 entries
+       ]
+  }
+```
+
+**I hope you find this documentation helpful in integrating and utilizing the Product Catalog API.**
